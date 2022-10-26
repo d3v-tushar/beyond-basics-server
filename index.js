@@ -6,18 +6,24 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require('./data/courseData.json');
-const { response } = require('express');
+const courses = require('./data/courses.json');
 
-app.get('/', (request, response) => {
-    response.send('Beyond Basics Server is Up')
+app.get('/', (req, res) =>{
+    res.send('Beyond Basics Server is Running')
 });
 
-app.get('/courseData', (request, response) =>{
-    response.send(hotels);
+app.get('/courses', (req, res) =>{
+    res.send(courses);
+})
+
+app.get('/courses/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log('looking for courses', id);
+
+    const course = courses.find(rm => rm.id === id) || {};
+    res.send(course)
 })
 
 app.listen(port, () =>{
-    console.log(`Beyond Basics Running On Port, ${port}`)
-});
-
+    console.log(`Beyond Basics Running On Port, ${port}`);
+})
