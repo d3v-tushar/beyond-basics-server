@@ -2,6 +2,8 @@
     {
     "id": 101,
     "title": "The Complete 2022 Web Development Bootcamp",
+    "img": "https://i.ibb.co/3kN13LS/web-development.png",
+    "imgWide": "https://i.ibb.co/m4jFbTT/101.png",
     "summary": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
     "fees": 120,
     "discripOne": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Beyond Basics!", 
@@ -13,6 +15,8 @@
     {
     "id": 102,
     "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "img": "https://i.ibb.co/ScBkJx9/web-development-2.png",
+    "imgWide": "https://i.ibb.co/nQgV93D/101-1.png",
     "summary": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
     "fees": 99,
     "discripOne": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web. It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know! This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer!",
@@ -24,6 +28,8 @@
     {
     "id": 103,
     "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "img": "https://i.ibb.co/FH89XB3/web-development-3.png",
+    "imgWide": "https://i.ibb.co/qYx7H5z/101-2.png",
     "summary": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
     "fees": 150,
     "discripOne": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!! You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.", 
@@ -35,6 +41,8 @@
     {
     "id": 104,
     "title": "Complete Python Bootcamp From Zero to Hero in Python 2022",
+    "img": "https://i.ibb.co/Pm7z9LM/web-development-5.png",
+    "imgWide": "https://i.ibb.co/Mpk4tPw/101-3.png",
     "summary": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
     "fees" : 160,
     "discripOne" : "Become a Python Programmer and learn one of employer's most requested skills of 2022! This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.",
@@ -47,6 +55,8 @@
     {
     "id": 105,
     "title": "Vue - The Complete Guide (incl. Router & Composition API)",
+    "img": "https://i.ibb.co/nLwL2Q6/web-development-4.png",
+    "imgWide": "https://i.ibb.co/G9p2Wxv/101-5.png",
     "summary": "Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!",
     "fees" : 120,
     "discripOne" : "Frontend frameworks like Vue JS are extremely popular because they give us this reactive, great user experience we know from mobile apps - but now in the browser! No wonder that jobs requiring frontend framework skills like VueJS are amongst the best paid ones in the industry!",
@@ -58,6 +68,8 @@
     {
     "id": 106,
     "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+    "img": "https://i.ibb.co/S39jtkW/web-development-1.png",
+    "imgWide": "https://i.ibb.co/RQXHxm4/101-6.png",
     "summary": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
     "fees": 85,
     "discripOne": "Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes.",
